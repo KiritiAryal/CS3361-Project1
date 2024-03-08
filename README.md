@@ -1,5 +1,5 @@
 # CS3361-Project1
-
+This is the scanner.
 The code is implemented in java.
 For go to working directory where .java files are located
 
