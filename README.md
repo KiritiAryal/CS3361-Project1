@@ -22,6 +22,5 @@ Links to parser and interpreter:
 <br>
 
 Parser: https://github.com/KiritiAryal/CS3361-Project2
-<br>
-<br>
+
 Interpreter: https://github.com/KiritiAryal/CS3361-Project3
