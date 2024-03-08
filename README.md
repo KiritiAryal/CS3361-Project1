@@ -17,3 +17,7 @@ Replace your file name with your test file. In our case the testfile1.txt, testf
 
 You can also compile and run java Program as:
 javac *.java && java Main testfile4.txt
+
+Links to parser and interpreter:
+Parser: https://github.com/KiritiAryal/CS3361-Project2
+Interpreter: https://github.com/KiritiAryal/CS3361-Project3
